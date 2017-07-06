@@ -32,7 +32,5 @@ namespace TDDKata
         {
             return Rolls.Sum();
         }
-
-
     }
 }
