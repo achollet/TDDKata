@@ -32,6 +32,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Test.cs" />
+    <Compile Include="BowlingGame.cs" />
+    <Compile Include="Frame.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

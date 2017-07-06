@@ -6,3 +6,11 @@
 /Volumes/HHD-Data/Development/GitHub/TDDKata/TDDKata/TDDKata/obj/Debug/BowlingGameKata.csproj.CoreCompileInputs.cache
 /Volumes/HHD-Data/Development/GitHub/TDDKata/TDDKata/TDDKata/obj/Debug/TDDKata.dll
 /Volumes/HHD-Data/Development/GitHub/TDDKata/TDDKata/TDDKata/obj/Debug/TDDKata.pdb
+/Volumes/HHD-Data/Development/GitHub/TDDKata.git/TDDKata/bin/Debug/TDDKata.dll
+/Volumes/HHD-Data/Development/GitHub/TDDKata.git/TDDKata/bin/Debug/TDDKata.pdb
+/Volumes/HHD-Data/Development/GitHub/TDDKata.git/TDDKata/bin/Debug/nunit.framework.dll
+/Volumes/HHD-Data/Development/GitHub/TDDKata.git/TDDKata/bin/Debug/nunit.framework.xml
+/Volumes/HHD-Data/Development/GitHub/TDDKata.git/TDDKata/obj/Debug/BowlingGameKata.csprojResolveAssemblyReference.cache
+/Volumes/HHD-Data/Development/GitHub/TDDKata.git/TDDKata/obj/Debug/BowlingGameKata.csproj.CoreCompileInputs.cache
+/Volumes/HHD-Data/Development/GitHub/TDDKata.git/TDDKata/obj/Debug/TDDKata.dll
+/Volumes/HHD-Data/Development/GitHub/TDDKata.git/TDDKata/obj/Debug/TDDKata.pdb
