@@ -5,11 +5,13 @@ namespace TDDKata
     {
         protected int _score;
 
+        private int _frameMax = 10;
+
         public Frame[] Frames { get; set; }
 
         public int Score()
         {
-            for (int f = 0; f < Frames.Length; f++)
+            for (int f = 0; f < _frameMax; f++)
             {
                 _score += Frames[f].FrameScore();
 
@@ -17,7 +19,7 @@ namespace TDDKata
                     _score += Frames[f + 1].FrameScore();
 
                 if (Frames[f].IsSpare)
-                    _score += Frames[f + 1].Rolls[1];
+                    _score += Frames[f + 1].Rolls[0];
             }
 
             return _score;
